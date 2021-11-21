@@ -73,6 +73,7 @@
     src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/morshedmasud/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
     <a href="https://stackoverflow.com/users/9424265/masud-morshed" target="_blank"><img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=9424265" /></a>
+    <a href="https://www.stopstalk.com/user/profile/morshedmasud" target="_blank"><img alt="StopsTalk" src="https://img.shields.io/static/v1?style=for-the-badge&message=StopStalk&color=536DFE&logo=StopStalk&logoColor=FFFFFF&label=" /></a>
 </p>
 
 ## 📊 Github stats
