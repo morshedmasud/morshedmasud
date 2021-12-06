@@ -26,7 +26,6 @@
 <p>
     <a href="https://github.com/search?q=user%3Amorshedmasud+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"></a>
     <a href="https://github.com/search?q=user%3Amorshedmasud+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
-    <a href="https://github.com/search?q=user%3Amorshedmasud+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
